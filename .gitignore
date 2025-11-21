@@ -1,0 +1,13 @@
+# --- Dependencies ---
+node_modules/
+venv/
+__pycache__/
+
+# --- System Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Allow the Demo Files ---
+!input.json
+!outputs/
+!build/
