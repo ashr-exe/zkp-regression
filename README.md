@@ -4,6 +4,8 @@
 
 This project is a **Zero-Knowledge Machine Learning (ZKML)** implementation using **Circom** and **SnarkJS**. It bridges the gap between traditional data science (Scikit-Learn) and cryptographic circuits (Finite Fields).
 
+Demo Video: https://drive.google.com/file/d/1_HjC2_fuXmcxw3ZfNAa0Gjnjy89ajsU5/view?usp=drive_link
+
 ---
 # V2: Data Commitments
 
