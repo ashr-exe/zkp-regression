@@ -39,7 +39,8 @@ If the Prover tries to change even a single data point to cheat the accuracy sco
 python3 prepare_input.py
 
 # Calculate Commitment & Format JSON
-node add_hash.js```
+node add_hash.js
+```
 
 ---
 
